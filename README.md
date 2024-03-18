@@ -6,7 +6,7 @@ This repository contains the work for the final project of my Applied Cloud Comp
 
 The dataset used for this project is sourced from Kaggle and comprises records of Supreme Court judgments, including details such as the case facts, issue areas, majority and minority votes, and outcomes.
 
-    Dataset Source: Supreme Court Judgment Prediction on Kaggle
+    https://www.kaggle.com/datasets/deepcontractor/supreme-court-judgment-prediction
     
 The notebook does not need local data files to run unless something went wrong with the GCS bucket. 
 Alternatively, code is provided in the notebook for local directory use with the provided .csv data file.
