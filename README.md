@@ -9,7 +9,7 @@ The dataset used for this project is sourced from Kaggle and comprises records o
     https://www.kaggle.com/datasets/deepcontractor/supreme-court-judgment-prediction
     
 The notebook does not need local data files to run unless something went wrong with the GCS bucket. 
-Alternatively, code is provided in the notebook for local directory use with the provided .csv data file.
+Alternatively, code is provided in the notebook for local directory use with the provided .csv data file (or download from Kaggle).
  
 ## File Structure
 
