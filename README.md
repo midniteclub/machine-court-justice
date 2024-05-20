@@ -2,7 +2,7 @@
 
 ## Overview
 This project aims to explore, analyze, and predict outcomes of cases based on historical data from the Supreme Court. Ideal for legal scholars, data scientists, and enthusiasts interested in the intersection of law and technology.
-This repository contains the work for the final project of my Applied Cloud Computing course. The project focuses on predicting the outcomes of Supreme Court cases based on various features extracted from case records. Utilizing logistic regression models, this analysis aims to uncover patterns and insights into the factors influencing case outcomes.
+This repository contains the work for a project inspired by my Applied Cloud Computing course at Drexel University. The project focuses on predicting the outcomes of Supreme Court cases based on various features extracted from case records. Utilizing logistic regression models, this analysis aims to uncover patterns and insights into the factors influencing case outcomes.
 
 The dataset used for this project is sourced from Kaggle and comprises records of Supreme Court judgments, including details such as the case facts, issue areas, majority and minority votes, and outcomes.
 
